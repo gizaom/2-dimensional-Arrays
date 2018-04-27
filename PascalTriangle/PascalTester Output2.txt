@@ -1,0 +1,26 @@
+run:
+Enter the number of rows in the triangle as a number between 1 and 13: 
+4
+    1
+   1 1
+  1 2 1
+ 1 3 3 1
+
+Would you like to print another triangle? Enter y to continue running the program, otherwise click any other key to terminate.
+y
+Enter the number of rows in the triangle as a number between 1 and 13: 
+9000
+Input has to be a number between 1 and 13
+Enter the number of rows in the triangle as a number between 1 and 13: 
+jdjdj
+That is not a valid number. Please enter a number between 1 and 13: 
+"""
+That is not a valid number. Please enter a number between 1 and 13: 
+3
+   1
+  1 1
+ 1 2 1
+
+Would you like to print another triangle? Enter y to continue running the program, otherwise click any other key to terminate.
+n
+BUILD SUCCESSFUL (total time: 27 seconds)
